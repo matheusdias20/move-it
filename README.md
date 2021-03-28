@@ -1,4 +1,4 @@
-<h1 align="center">🎥 Move-It</h1>
+<h1 align="center">🏋️ Move-It</h1>
 <p align="center">
   <strong>App desenvolvido durante a 4ª edição do evento Next Level Week - Rocketseat, Trilha ReactJS</strong>
   <br>
